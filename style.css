@@ -1,0 +1,51 @@
+body {
+    background-color: white(187, 187, 187);
+}
+
+#conteiner>h1 {
+    margin-left: 900px;
+
+}
+
+#conteiner>p {
+    margin-top: 50px;
+    margin-left: 560px;
+}
+
+
+
+
+
+#skills {
+    display: flex;
+
+    margin-left: 700px;
+}
+
+.hr {
+    border: 1px solid black;
+}
+
+#skills {
+    justify-content: center;
+
+
+    margin: 10px;
+    height: 30px
+}
+
+
+
+#social_medias {
+    margin-left: 900px;
+}
+
+h2 {
+    margin-left: 900px
+}
+
+#languages {
+    display: flex;
+
+    margin-left: 800px;
+}
